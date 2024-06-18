@@ -1,6 +1,7 @@
 // note we will have to download these libs in order to run locally 
-// 1. create classes to fit the description of the assignment
-// 2. figure out how to clear the terminal in the displayGrid()
+
+// Omar Salah Sayed Mahmoud 1201101928
+// Mohtady Ehab Barakat 1211305618
 
 
 #include <iostream>
